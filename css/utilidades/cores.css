@@ -15,7 +15,7 @@
   --cor-p1: #fb0;
   --cor-p2: #e4a30b;
   --cor-p3: #a66f00;
-  --cor-p4: #6440;
+  --cor-p4: #640;
   --cor-p5: #320;
 }
 
@@ -83,7 +83,7 @@
   color: var(--cor-p3);
 }
 
-.cor-4 {
+.cor-p4 {
   color: var(--cor-p4);
 }
 
